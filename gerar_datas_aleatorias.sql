@@ -31,3 +31,6 @@ BEGIN
 
 END
 $$ 
+
+-- Valide seus dados
+-- SELECT * FROM tmp_vendas;
