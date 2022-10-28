@@ -34,3 +34,6 @@ $$
 
 -- Valide seus dados
 -- SELECT * FROM tmp_vendas;
+--
+-- Deleta tabela temporária
+-- DROP TABLE IF EXISTS tmp_vendas;
